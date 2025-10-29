@@ -1,6 +1,6 @@
 # Project Management App  
 
-A full-stack project management application built with React (Vite) & Node.js + MongoDB — allowing users to register, create/manage projects and tasks with filtering and search.
+A full-stack project management application built with React (Vite) & Node.js + NestJs + MongoDB — allowing users to register, create/manage projects and tasks with filtering and search.
 
 ---
 
